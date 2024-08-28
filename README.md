@@ -4,7 +4,7 @@ Merhabalar 👋
 -👷‍♂️ Başarsoft Bilgi Teknolojileri şirketinde 1.5 yıl Coğrafi Bilgi Sistemleri Uzmanı olarak çalıştıktan sonra,işimden istifa ederek rotamı uzun süredir meraklı olduğum ve kendi imkanlarımla öğrenmeye çalıştığım yazılım alanına tamamıyla çevirdim.
 -👨‍🏫 BilgeAdam Eğitim Kurumlmarında 2023 yılında .Net Full Stack yazılım eğitimi aldım.
 -🕵️ Araştırmayı ve öğrenmeyi çok seven birisi olarak yazılım eğitimim esnasında freelance işler arayarak yazılım alanında projeler geliştirdim.
--👨‍💻 Şu anda Full Stack Jr.Software Developer olarak görüyorum ve araştırmaya ve kendimi geliştirmeye devam ediyorum.
+-👨‍💻 Şu anda kendimi Full Stack Jr.Software Developer olarak görüyorum ve araştırmaya ve kendimi geliştirmeye devam ediyorum.
 <!--
 **furkanbaybura/furkanbaybura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
